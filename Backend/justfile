@@ -1,0 +1,5 @@
+push:
+    git config --global user.email "aafreenjaved10@gmail.com"
+    git config --global user.name
+    sh ./github.sh
+    git config --global user.email " "
